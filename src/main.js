@@ -111,8 +111,12 @@ const RazerProducts = {
         name: 'Razer Naga v2 Pro Wireless',
         transactionId: 0x1f
     },
+    0x00a5: {
+        name: 'Razer Viper V2 Pro Wired',
+        transactionId: 0x1f
+    },
     0x00a6: {
-        name: 'Razer Viper V2 Pro',
+        name: 'Razer Viper V2 Pro Wireless',
         transactionId: 0x1f
     },
     0x007b: {
@@ -121,10 +125,6 @@ const RazerProducts = {
     },
     0x007a: {
         name: 'Razer Viper Ultimate Dongle',
-        transactionId: 0x3f
-    },
-    0x00A6: {
-        name: 'Razer Viper V2 Pro',
         transactionId: 0x3f
     }
 };
